@@ -1,0 +1,9 @@
+{
+  "name": "com.example.native_messaging",
+  "description": "Example Chrome Native Messaging Host",
+  "path": "C:/Users/abelam01/NATIVEAPP/com.example.native_messaging.json/native_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://bafbmfmjdmbnapgajegekbajcohpodln/"
+  ]
+}
