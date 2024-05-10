@@ -1,10 +1,10 @@
 import asyncio
-import websockets
-import pyaudio
+import websockets # used for the server
+import pyaudio # handles all the audio transmission
 import logging
-import socket
+import socket # main purpose is to give us the IP address.
 
-# Configure logging
+# Configure logging to find ip address
 logging.basicConfig(level=logging.INFO)
 
 # Audio setup
